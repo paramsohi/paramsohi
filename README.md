@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ### :zap: <b>GitHub Stats </b>
 
-  <img align="left" alt="makdoom's GitHub Stats" src="https://github-readme-stats-chi-fawn.vercel.app/api?username=makdoom&show_icons=true&theme=radical&hide_border=true" />
+  <img align="left" alt="Param sohi github Stats" src="https://github-readme-stats-chi-fawn.vercel.app/api?username=paramsohi&show_icons=true&theme=radical&hide_border=true" />
 
 
 
