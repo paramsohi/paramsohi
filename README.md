@@ -1,4 +1,4 @@
-### Hi there, I'm Param Sohi 👋
+### Hi there, I'm Param  👋
 
 Here are some ideas to get you started:
 
